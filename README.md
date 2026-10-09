@@ -35,5 +35,6 @@ Sponza and vokselia model downloaded from Morgan McGuire's [Computer Graphics Ar
 ## Additional assets
 
 Fonts downloaded from [Google Fonts](https://fonts.google.com), under license [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise 
+https://paulwalkerfoundation.org
+https://www.x.com
